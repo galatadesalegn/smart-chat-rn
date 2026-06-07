@@ -182,6 +182,6 @@ This project is licensed under the **MIT License** — see the [LICENSE](./LICEN
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=100&section=footer&animation=twinkling)
 
-Built with ❤️ by [Galata Desalegn](https://www.galatadesalegn.me/)
+Built with ❤️ by [Galata_Desalegn](https://www.galatadesalegn.me/)
 
 </div>
